@@ -1,0 +1,16 @@
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-ai-generativelanguage
+google-generativeai
+chromadb
+chroma-hnswlib
+PyPDF2
+pypdf
+tqdm
+requests
+
+pymongo
+tiktoken
